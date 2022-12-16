@@ -58,4 +58,3 @@ This is how different pages look:
 ![WhatsApp Image 2022-12-14 at 12 34 38 (1)](https://user-images.githubusercontent.com/76389658/208148634-0c462295-73fa-4174-af7c-825e3cd55653.jpeg)
 
 ![WhatsApp Image 2022-12-14 at 12 34 38](https://user-images.githubusercontent.com/76389658/208148642-5ca8a1cf-acf5-4642-b73b-f470e4449b4b.jpeg)
-
