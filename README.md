@@ -45,3 +45,11 @@ James recorded a [full 4-hour walkthrough](https://www.youtube.com/DuNLR_NJv8U) 
 
 
 If you have any questions please reach out to me on Twitter [@JamesMontemagno](https://twitter.com/jamesmontemagno). 
+
+This is how different pages look:
+![WhatsApp Image 2022-12-14 at 12 34 40](https://user-images.githubusercontent.com/76389658/208148618-290d2123-0447-4c47-a9a2-8d4624a995ac.jpeg)
+![WhatsApp Image 2022-12-14 at 12 34 39 (1)](https://user-images.githubusercontent.com/76389658/208148625-1bf18975-a4c4-4de5-a52c-bc4b0c5713d7.jpeg)
+![WhatsApp Image 2022-12-14 at 12 34 39](https://user-images.githubusercontent.com/76389658/208148632-778f0777-54f9-49a3-bf37-22114ba87f42.jpeg)
+![WhatsApp Image 2022-12-14 at 12 34 38 (1)](https://user-images.githubusercontent.com/76389658/208148634-0c462295-73fa-4174-af7c-825e3cd55653.jpeg)
+![WhatsApp Image 2022-12-14 at 12 34 38](https://user-images.githubusercontent.com/76389658/208148642-5ca8a1cf-acf5-4642-b73b-f470e4449b4b.jpeg)
+
